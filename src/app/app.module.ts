@@ -18,6 +18,7 @@ import {MatGridListModule} from "@angular/material/grid-list";
 import {MatDividerModule} from "@angular/material/divider";
 import { StudentsComponent } from './learning/pages/students/students.component';
 
+
 const routes: Routes = [
 
 ]
@@ -30,7 +31,6 @@ const routes: Routes = [
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
-    RouterModule.forRoot(routes),
     HttpClientModule,
     FormsModule,
     ReactiveFormsModule,
