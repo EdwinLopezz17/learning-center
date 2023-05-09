@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Pether",
+      "age": 17,
+      "address": "C. Tello"
+    },
+    {
+      "id": 2,
+      "name": "Jhonel",
+      "age": 13,
+      "address": "Surco-B"
+    },
+    {
+      "id": 3,
+      "name": "Angie",
+      "age": 20,
+      "address": "Primavera"
+    },
+    {
+      "id": 4,
+      "name": "Karine",
+      "age": 10,
+      "address": "Castilla"
+    }
+  ]
+}
